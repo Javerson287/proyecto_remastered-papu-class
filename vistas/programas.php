@@ -40,7 +40,7 @@
 	
 	<?php } ?>
 	
-	<a  href="../controlaores/c-menu.php">
+	<a  href="../index.php">
 <input type="submit" class="btn btn-primary btn-block"  name="submit" value="Volver"></a>
 	<br><br>
 </table>

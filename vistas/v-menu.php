@@ -17,8 +17,8 @@
 						</span>
 				    </a>
 					<ul>
-								<li><a href="../index.php">cerrar sección</a></li>
-								<li><a href="../controladores/c-historial-usuario.php">informacion del usuario</a></li>
+								<li><a href="controladores/c-iniciar_seccion.php">Cerrar sección</a></li>
+								<li><a href="controladores/c-historial-usuario.php">Informacion del usuario</a></li>
 							</ul>
 						
 							<ul>
@@ -44,8 +44,8 @@
 						<li><a href="">agregar</a>
 							<ul>
 								<li><a href="vistas/agregar_instructor.php">instructor</a></li>
-								<li><a href="agregar_ambiente.php">ambientes</a></li>
-								<li><a href="agregar_programa.php">programa</a></li>
+								<li><a href="vistas/agregar_ambiente.php">ambientes</a></li>
+								<li><a href="vistas/agregar_programa.php">programa</a></li>
 							</ul>
 						</li>
                         <li><a href="">Actualizar y Eliminar</a>

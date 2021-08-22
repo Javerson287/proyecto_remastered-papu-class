@@ -17,7 +17,7 @@ class usuario extends conex
         if ($conexion ->affected_rows > 0)
             {
                 
-                echo '<script language="javascript">alert("Tus datos se guardaron");window.location.href="index.php";</script>';
+                echo '<script language="javascript">alert("Tus datos se guardaron");window.location.href="../controladores/c-iniciar_seccion.php";</script>';
                 
             }
             else

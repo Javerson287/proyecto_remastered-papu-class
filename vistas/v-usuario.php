@@ -15,7 +15,7 @@
 <div id="header">
 			<ul class="nav">
 				
-				<li><a href="c-menu.php">Inicio</a></li>
+				<li><a href="../index.php">Inicio</a></li>
 		
 			</ul>
 		</div>

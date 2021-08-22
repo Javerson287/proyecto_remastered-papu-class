@@ -2,7 +2,7 @@
 
 function db_query($query) {
    
-	include('class/conexion.php');
+	include('conexion.php');
 	$connection=Conex::conectar();
     $result = mysqli_query($connection,$query);
   

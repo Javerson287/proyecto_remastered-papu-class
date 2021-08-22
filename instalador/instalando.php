@@ -52,7 +52,7 @@
 					$objeto_verificador = new Verificador();
 		
 				include('ejemplo.php');
-					header('Location:../index.php');
+					header('Location:../controladores/c-iniciar_seccion.php');
 									$interrupcion_proceso = 1;
 				}
 			}

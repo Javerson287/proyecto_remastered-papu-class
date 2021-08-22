@@ -37,7 +37,7 @@
 				<input type="submit" class="btn btn-primary btn-block"  name="submit" value="actualizar"></a></td></tbody>
 	<?php } ?>
 	
-	<a  href="../controlador/c-menu.php">
+	<a  href="../index.php">
 <input type="submit" class="btn btn-primary btn-block"  name="submit" value="Volver"></a>
 	<br><br>
 </table>

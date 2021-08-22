@@ -1,6 +1,6 @@
 <?php
 
-    include("class/usuario.php");
+    include("../class/usuario.php");
     $correo = $_POST[ 'correo' ];
     $usuario = $_POST[ 'usuario' ];
     $clave = $_POST[ 'contraseña' ];

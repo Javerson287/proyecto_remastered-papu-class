@@ -7,6 +7,6 @@ $seccion = "../vistas/v-iniciar_seccion.php";
 
 
 
-include("../plantillas/v-plantilla.php");
+include("../vistas/v-plantilla.php");
 
 //header( "location: respuesta_registrarse.php" );

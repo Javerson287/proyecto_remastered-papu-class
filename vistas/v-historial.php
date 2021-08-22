@@ -13,12 +13,12 @@
 
         <div class="header">
 		<ul class="nav">
-			<li><a href="../index.php0">Inicio</a></li>
-			<li><a href="../controlaor/c-historial.php">Realizar otra Busqueda</a></li>
+			<li><a href="../index.php">Inicio</a></li>
+			<li><a href="../controladores/c-historial.php">Realizar otra Busqueda</a></li>
 		</ul>
 	</div> 
        <br>
-	<form action="../controlaores/c-historial.php" method="POST">
+	<form action="../controladores/c-historial.php" method="POST">
              
                   <div class="field" id="buscar">
                         <input type="text" id="buscar" name= "buscar" placeholder="Buscar Registro"/>

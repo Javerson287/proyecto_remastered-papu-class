@@ -15,7 +15,7 @@
   </div>
    
 
-  <form action="r_ambientes.php" method="POST" id="form">
+  <form action="../controladores/r_ambientes.php" method="POST" id="form">
 
     <fieldset>
       <h2 class="fs-title">Ingresar Ambiente</h2>
@@ -23,7 +23,7 @@
       <input type="text" name="cede" id="imp" placeholder="Ambiente" />
       
       <br><br>
-      <a class="next action-button" href="v_menu.php">Volver</a>
+      <a class="next action-button" href="../index.php">Volver</a>
       <input type="submit" class="next action-button" name="Enviar" value="Enviar">
   
         

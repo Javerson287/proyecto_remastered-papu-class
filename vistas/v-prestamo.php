@@ -15,11 +15,11 @@
          <link href="css/estilo3.css" rel="stylesheet" type="text/css">
     </div>
   
-    <form  class="form1" action="c-menu.php"  method= "POST">
+    <form  class="form1" action="../index.php"  method= "POST">
 <input type="submit" class="btn btn-primary btn-block"  name="submit" value="volver">
 </form>
 
-    <form  action="../controlaores/r-prestamo.php" method= "POST">
+    <form  action="../controladores/r-prestamo.php" method= "POST">
        
         <div class="container">
             
@@ -100,7 +100,7 @@
 <!--barra de busqueda de disponbilidad-->
 
 <br><br>
-    <form  class="form" action="../controlaores/disponibilidad.php"  method= "POST">
+    <form  class="form" action="../controladores/disponibilidad.php"  method= "POST">
 
         Disponibilidad:<input type="date" name="fecha">
         <input type="time" name="hora">
